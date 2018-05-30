@@ -224,9 +224,9 @@ atob@^2.1.1:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/atob/-/atob-2.1.1.tgz#ae2d5a729477f289d60dd7f96a6314a22dd6c22a"
 
-awilix@^3.0.7:
-  version "3.0.7"
-  resolved "https://registry.yarnpkg.com/awilix/-/awilix-3.0.7.tgz#8cb458c6d9cf1c0aed056b6aefc3d726f1d254c6"
+awilix@^3.0.8:
+  version "3.0.8"
+  resolved "https://registry.yarnpkg.com/awilix/-/awilix-3.0.8.tgz#76f22a001b2f9d5755028fcb4c980b80c4416a66"
   dependencies:
     camel-case "^3.0.0"
     glob "^7.1.2"
