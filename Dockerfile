@@ -1,4 +1,4 @@
-FROM node:10.1.0-slim
+FROM node:10.2.1-slim
 
 RUN cd /opt/ && mkdir node-bootstrap
 WORKDIR opt/node-bootstrap
